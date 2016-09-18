@@ -1,0 +1,24 @@
+<map id="RAG::merge" name="RAG::merge">
+<area shape="rect" id="node2" href="$class_node.html#a6ede207fb67e5aa1fb80f0230074a0c0" title="Node::setLeftChild" alt="" coords="165,5,296,32"/>
+<area shape="rect" id="node3" href="$class_node.html#a1b945cb9d5755aef273c43d6c7ce58bb" title="Node::setRightChild" alt="" coords="161,56,301,83"/>
+<area shape="rect" id="node4" href="$class_node.html#ad7c28414b0d242ce7c491e22cf006041" title="Node::setParent" alt="" coords="172,107,289,133"/>
+<area shape="rect" id="node5" href="$class_node.html#a2784134529ab6341bf028b0d40660870" title="Node::getBoarderIndexX" alt="" coords="148,157,313,184"/>
+<area shape="rect" id="node6" href="$class_node.html#a9305e6376add78eafd94f198df0ee745" title="Node::setBoarderIndexX" alt="" coords="148,208,313,235"/>
+<area shape="rect" id="node7" href="$class_node.html#a44362e2817f8eb2fd21b78f39797c48c" title="Node::getBoarderIndexY" alt="" coords="148,259,313,285"/>
+<area shape="rect" id="node8" href="$class_node.html#aa969843e599c724456cc743b8b7f0f3b" title="Node::setBoarderIndexY" alt="" coords="148,309,313,336"/>
+<area shape="rect" id="node9" href="$class_node.html#adcc7f26a2ccf3a8fcc387ed820624d99" title="Node::getModel" alt="" coords="173,360,288,387"/>
+<area shape="rect" id="node10" href="$classregion_model.html#a109b2dd106c9fbda2a9db402d0021fe9" title="regionModel::merge" alt="" coords="163,411,299,437"/>
+<area shape="rect" id="node11" href="$class_node.html#a8a60e0e373f3acf5a26036a0b40312a1" title="Node::setModel" alt="" coords="173,461,288,488"/>
+<area shape="rect" id="node13" href="$class_node.html#a6e506795cafa9ed120f236b58f32e3c5" title="Node::getEdges" alt="" coords="173,512,289,539"/>
+<area shape="rect" id="node14" href="$class_edge_heap.html#a7d8eaf4111da4c024feb5f2fb8d7cafa" title="EdgeHeap::update" alt="" coords="165,563,296,589"/>
+<area shape="rect" id="node16" href="$class_edge.html#a9825f846eb203bc2ebe0e5ee4dcf9c3b" title="Edge::setLength" alt="" coords="172,613,289,640"/>
+<area shape="rect" id="node17" href="$class_edge.html#ac5e6bca7dbde5cdd88579b1081ebe1db" title="Edge::getLength" alt="" coords="172,664,289,691"/>
+<area shape="rect" id="node18" href="$class_edge.html#aaaa9cb49c141b310873cd75fd493e22d" title="Edge::getNode1" alt="" coords="173,715,289,741"/>
+<area shape="rect" id="node19" href="$class_node.html#a317d8090ed6ef5766b587a21038888b7" title="Node::removeEdge" alt="" coords="163,765,298,792"/>
+<area shape="rect" id="node20" href="$class_edge.html#a50017668f77ed019a5caceafbb1eb16f" title="Edge::getNode2" alt="" coords="173,816,289,843"/>
+<area shape="rect" id="node21" href="$class_edge_heap.html#ac36afe05c095a87767748b41dfa831a5" title="EdgeHeap::remove" alt="" coords="163,867,298,893"/>
+<area shape="rect" id="node22" href="$class_node.html#a86573dcde1125e02936ee7c256fb270a" title="Node::addEdge" alt="" coords="175,917,287,944"/>
+<area shape="rect" id="node23" href="$class_node.html#a65e1a7962c09ea80b33c2eb57ce4f362" title="Node::removeAllEdges" alt="" coords="153,968,309,995"/>
+<area shape="rect" id="node12" href="$classregion_model.html#aebdb837024f0eb627bb15742a19b9974" title="regionModel::setNode" alt="" coords="361,461,511,488"/>
+<area shape="rect" id="node15" href="$class_edge.html#a54017590a12f8b5e68641e678f01655f" title="Edge::getHeapIndex" alt="" coords="365,715,507,741"/>
+</map>

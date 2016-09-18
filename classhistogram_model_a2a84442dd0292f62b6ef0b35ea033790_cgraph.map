@@ -1,0 +1,12 @@
+<map id="histogramModel::merge" name="histogramModel::merge">
+<area shape="rect" id="node2" href="$classhistogram_model.html#a165ed6726e5911b4332e687618f10a05" title="histogramModel::histogram\lModel" alt="" coords="243,5,422,47"/>
+<area shape="rect" id="node3" href="$classregion_model.html#a7f6a5d1ab86d69e213ebb81973481330" title="regionModel::setArea" alt="" coords="501,42,647,69"/>
+<area shape="rect" id="node4" href="$classregion_model.html#a56b1a22f355e85211760055c7559cd1e" title="regionModel::getArea" alt="" coords="260,122,405,149"/>
+<area shape="rect" id="node5" href="$classhistogram_model.html#a80ac69aede60d42816e2cf7e4a8e8dff" title="histogramModel::setHistogram\lValue" alt="" coords="233,173,433,215"/>
+<area shape="rect" id="node6" href="$classhistogram_model.html#a698d779f2ff0695f5624c23af267034d" title="histogramModel::getValue" alt="" coords="246,239,419,266"/>
+<area shape="rect" id="node7" href="$classhistogram_model.html#a3e6e68560c5fd12e0cbc98ae136fedd0" title="histogramModel::getMeanSpectrumAt" alt="" coords="212,290,453,317"/>
+<area shape="rect" id="node8" href="$classhistogram_model.html#ac5e04798a647cc5f0e022cbf71db6421" title="histogramModel::setMeanSpectrumAt" alt="" coords="212,341,453,367"/>
+<area shape="rect" id="node9" href="$classhistogram_model.html#a9888f3ebd10f39ab8d353e12a2630f65" title="histogramModel::getStd" alt="" coords="253,391,413,418"/>
+<area shape="rect" id="node10" href="$classhistogram_model.html#a29f1b47d4c87f6a9e46c70758dd7c892" title="histogramModel::setStd" alt="" coords="253,442,413,469"/>
+<area shape="rect" id="node11" href="$classhistogram_model.html#a4d9af6d2786591a437f8bea4c7ce32df" title="histogramModel::releaseHistogram" alt="" coords="221,493,445,519"/>
+</map>
